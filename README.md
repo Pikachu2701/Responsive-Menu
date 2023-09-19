@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1>Navegação Simplificada, Experiência Aprimorada</h1>
 
 <p>Bem-vindo à nossa barra de navegação responsiva, projetada para tornar a sua experiência no nosso site ainda mais agradável e eficiente. Aqui estão alguns dos motivos pelos quais nossa barra de navegação se destaca:</p>
@@ -32,4 +32,4 @@ Independentemente do tamanho da tela do seu dispositivo, a barra de navegação 
   </p>
 =======
 # Responsive-Menu
->>>>>>> 309b37935a808e2934152fee56eed32571330c27
+
