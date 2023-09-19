@@ -1,4 +1,5 @@
-
+<h1 style="text-align: center;">Menu Responsivo</h1>
+img src="./img/Layout-responsivo.png"
 <h1>Navegação Simplificada, Experiência Aprimorada</h1>
 
 <p>Bem-vindo à nossa barra de navegação responsiva, projetada para tornar a sua experiência no nosso site ainda mais agradável e eficiente. Aqui estão alguns dos motivos pelos quais nossa barra de navegação se destaca:</p>
